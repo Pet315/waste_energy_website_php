@@ -1,0 +1,513 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+p1 {
+  width: 75px;
+  height: 15px;
+  position: absolute;
+  top: 242px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: center;
+  color: #EDE38E;
+}
+p {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: center;
+  width: 395px;
+  height: 122px;
+  margin-left: 50px;
+  margin-top: 15px;
+}
+a {
+  text-decoration: none;
+  color: #EDE38E;
+}
+button {
+  width: 130px;
+  height: 50px;
+  margin-left: 165px;
+  margin-top: -81px;
+  background: #3D315B;
+  border-radius: 30px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  color: #fff;
+}
+h1 {
+  width: 173px;
+  height: 22px;
+  margin-left: 144px;
+  margin-top: 128px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+}
+.part1 {
+  align-items: space-between;
+  display: flex;
+  background-image: url(https://img.freepik.com/free-vector/campfire-fireplace-flying-sparks-burning-flame_8071-5387.jpg?w=826);
+  justify-content: space-around;
+  height: 299px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.part1 .vers {
+  margin-left: -460px;
+  margin-top: -200px;
+}
+.part1 p {
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 37px;
+  color: #EDE38E;
+}
+.part1 .logo {
+  width: 83px;
+  height: 49px;
+  margin-left: 189px;
+  margin-top: 28px;
+}
+.part1 .connect {
+  width: 49px;
+  height: 47px;
+  margin-left: 20px;
+  margin-top: 62px;
+}
+.part1 .menu1 {
+  left: 790px;
+  top: 76px;
+}
+.part1 .header {
+  width: 239px;
+  height: 26px;
+  margin-top: 0px;
+  margin-left: 111px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 26px;
+  color: #EDE38E;
+}
+.part1 .text {
+  width: 298px;
+  height: 15px;
+  margin-left: 81px;
+  margin-top: 17px;
+  text-align: center;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+}
+.part1 hr {
+  position: absolute;
+  width: 350px;
+  height: 0px;
+  left: 55px;
+  top: 177px;
+  border: 1px solid #EDE38E;
+}
+.part1 .icon1 {
+  width: 45px;
+  height: 46px;
+  margin-top: 190px;
+  margin-left: -390px;
+}
+.part1 .icon2 {
+  width: 33px;
+  height: 33px;
+  margin-left: -290px;
+  margin-top: 201px;
+}
+.part1 .icon3 {
+  margin-left: -190px;
+  margin-top: 201px;
+  width: 35px;
+  height: 35px;
+}
+.part1 .icon4 {
+  width: 34px;
+  height: 34px;
+  margin-left: -100px;
+  margin-top: 201px;
+}
+.part1 .icon1_text {
+  margin-left: -60px;
+}
+.part1 .icon2_text {
+  margin-left: -50px;
+}
+.part1 .icon3_text {
+  margin-left: -55px;
+}
+.part1 .icon4_text {
+  margin-left: -55px;
+}
+.part2 .vers {
+  margin-top: 30px;
+  color: #3D315B;
+  mix-blend-mode: multiply;
+  font-family: 'Roboto';
+  font-weight: bolder;
+}
+.part2 hr {
+  height: 9px;
+  width: 44px;
+  margin-left: 208px;
+  margin-top: 54px;
+  border-radius: 200px;
+  background: #3D315B;
+}
+.part2 .header1 {
+  margin-top: 15px;
+}
+.part2 .line2 {
+  left: 207px;
+  top: 527px;
+}
+.part2 .header2 {
+  margin-top: 15px;
+}
+.part2 img {
+  margin-top: -32px;
+  margin-left: 143px;
+  width: 173px;
+  height: 167px;
+  border-radius: 20px;
+}
+.part2 .image1 {
+  margin-top: 25px;
+}
+.part2 .image1_text,
+.part2 .image2_text {
+  color: #fff;
+  margin-top: -30px;
+  margin-left: 10px;
+}
+.part2 svg {
+  margin-left: 283px;
+  margin-top: -129px;
+}
+.part2 .image2_arrow {
+  left: 285px;
+  top: 954px;
+}
+.part2 .image3_text {
+  color: #000;
+  margin-top: -30px;
+  margin-left: 24px;
+}
+.part2 .image3_arrow {
+  left: 285px;
+  top: 1181px;
+}
+.part3 .fond {
+  margin-top: 54px;
+}
+.part3 .header3 {
+  color: #fff;
+  margin-top: -1184px;
+}
+.part3 .text {
+  color: #fff;
+  width: 395px;
+  height: 122px;
+  margin-left: 32px;
+  margin-top: 26px;
+}
+.part3 .image1,
+.part3 .image2,
+.part3 .image3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 171px;
+  height: 265px;
+  margin-left: 145px;
+  margin-top: 25px;
+  border-radius: 20px;
+}
+.part3 .image1_text,
+.part3 .image2_text,
+.part3 .image3_text {
+  width: 125px;
+  height: 60px;
+  color: #fff;
+  margin-top: -230px;
+  margin-left: 170px;
+}
+.part3 time {
+  position: absolute;
+  width: 52px;
+  height: 12px;
+  left: 230px;
+  top: 2100px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 12px;
+  color: #fff;
+}
+.part3 svg {
+  margin-left: 287px;
+  margin-top: 140px;
+}
+.part3 .image2 {
+  margin-top: -90px;
+}
+.part3 .image2_text {
+  width: 110px;
+  margin-top: -95px;
+  color: #000;
+}
+.part3 .date2 {
+  margin-top: 315px;
+  color: #000;
+}
+.part3 .calendar2 {
+  position: absolute;
+  height: 17px;
+  width: 14px;
+  left: 286px;
+  top: 2410px;
+}
+.part3 .image3 {
+  margin-top: 75px;
+}
+.part3 .date3 {
+  margin-top: 618px;
+}
+.part3 button {
+  width: 227px;
+  position: absolute;
+  top: 2840px;
+  left: -47px;
+}
+.part4 h1 {
+  width: 280px;
+  height: 97px;
+  margin-left: 85px;
+  margin-top: 26px;
+  color: #C83E4D;
+}
+.part4 button {
+  width: 178px;
+  height: 50px;
+  margin-left: 140px;
+  margin-top: 25px;
+}
+.part5 {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  height: 325px;
+  margin-top: 31px;
+  background: #C4C4C4;
+}
+.part5 a {
+  color: #000;
+}
+.part5 .logo {
+  width: 85px;
+  height: 40px;
+  margin-left: 5%;
+  margin-top: -55px;
+}
+.part5 .contacts {
+  margin-left: -100px;
+  margin-top: -130px;
+}
+.part5 .social_networks {
+  margin-left: -85px;
+  margin-top: -210px;
+}
+.part5 .icon1,
+.part5 .icon2,
+.part5 .icon3,
+.part5 .icon4 {
+  width: 23px;
+  height: 23px;
+  margin-left: 5%;
+  margin-top: -271px;
+}
+.part5 .icon2 {
+  margin-left: 12%;
+  margin-top: -189px;
+}
+.part5 .icon3 {
+  margin-left: 18%;
+  margin-top: -188px;
+}
+.part5 .icon4 {
+  margin-left: 24.5%;
+  margin-top: -188px;
+}
+.part5 .license {
+  margin-top: -140px;
+  width: 220px;
+  height: 15px;
+  margin-left: 25%;
+}
+.part5 p1 {
+  position: static;
+  color: #000;
+  font-weight: 500;
+}
+.part5 menu {
+  width: 120px;
+  height: 195px;
+  margin-left: 60%;
+  margin-top: -400px;
+  text-align: center;
+}
+.teleport {
+  background-color: rgba(196, 196, 196, 0.92);
+  height: 0px;
+  margin-top: -150px;
+}
+.teleport .advert {
+  visibility: hidden;
+}
+@media (max-width: 463px) {
+  .part1 .connect {
+    margin-top: 145px;
+  }
+  .part1 hr {
+    display: none;
+  }
+  .part1 .icon4 {
+    margin-left: -50px;
+  }
+  .part1 .icon3 {
+    margin-left: -120px;
+  }
+  .part1 .icon2 {
+    margin-left: -200px;
+  }
+  .part1 .icon1,
+  .part1 .connect {
+    margin-left: -280px;
+  }
+  .part1 .text,
+  .part1 .logo,
+  .part1 .header {
+    margin-left: 0px;
+  }
+  .part2 .text {
+    width: 290px;
+  }
+  .part2 h1,
+  .part2 hr,
+  .part2 img,
+  .part2 p,
+  .part2 svg {
+    margin-left: 10px;
+    text-align: left;
+  }
+  .part2 .image1_text,
+  .part2 .image2_text,
+  .part2 .image3_text {
+    margin-left: 20px;
+  }
+  .part2 svg {
+    margin-left: 150px;
+  }
+  .part2 button {
+    margin-left: 10px;
+  }
+  .part3 h1,
+  .part3 .image1,
+  .part3 .image2,
+  .part3 .image3,
+  .part3 .text {
+    margin-left: 10px;
+    text-align: left;
+  }
+  .part3 .image1_text,
+  .part3 .image2_text,
+  .part3 .image3_text {
+    margin-left: 35px;
+  }
+  .part3 .image1 {
+    margin-top: 50px;
+  }
+  .part3 h1 {
+    height: 10px;
+  }
+  .part3 .text {
+    width: 290px;
+  }
+  .part3 time {
+    margin-left: -135px;
+    margin-top: 10px;
+  }
+  .part3 .date2 {
+    margin-top: 320px;
+  }
+  .part3 .date3 {
+    margin-top: 621px;
+  }
+  .part3 svg {
+    margin-left: 152px;
+    margin-top: 137px;
+  }
+  .part3 .calendar2 {
+    left: 150px;
+    top: 2420px;
+  }
+  .part3 button {
+    margin-left: 55px;
+  }
+  .part4 h1,
+  .part4 button {
+    margin-left: 10px;
+  }
+}
+@media (min-width: 590px) {
+  .part2 .vers {
+    color: #EDE38E;
+    mix-blend-mode: normal;
+  }
+}
+@media (min-width: 915px) {
+  .part2 .image2,
+  .part2 .image3 {
+    margin-top: 0px;
+    margin-left: -450px;
+    width: 173px;
+    height: 167px;
+  }
+  .image3_arrow {
+    display: none;
+  }
+  .part3 time {
+    top: 2093px;
+  }
+  .part3 .date2 {
+    margin-top: 310px;
+  }
+  .part3 .calendar2 {
+    top: 2398px;
+  }
+  .part3 .date3 {
+    margin-top: 613px;
+  }
+}

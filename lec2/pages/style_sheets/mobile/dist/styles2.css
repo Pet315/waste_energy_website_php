@@ -1,0 +1,327 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+p {
+  font-family: 'Montserrat';
+  font-style: normal;
+  text-align: center;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  width: 216px;
+  height: 122px;
+  margin-left: 30px;
+  margin-top: 23px;
+}
+p1 {
+  width: 75px;
+  height: 15px;
+  position: absolute;
+  top: 242px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: center;
+  color: #EDE38E;
+}
+a {
+  text-decoration: none;
+  color: #EDE38E;
+}
+h1 {
+  width: 173px;
+  height: 22px;
+  margin-left: 144px;
+  margin-top: 128px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+}
+.part1 {
+  align-items: space-between;
+  display: flex;
+  background-image: url(https://img.freepik.com/free-vector/campfire-fireplace-flying-sparks-burning-flame_8071-5387.jpg?w=826);
+  justify-content: space-around;
+  height: 299px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.part1 .vers {
+  margin-left: -460px;
+  margin-top: -200px;
+}
+.part1 p {
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 37px;
+  color: #EDE38E;
+}
+.part1 .logo {
+  width: 83px;
+  height: 49px;
+  margin-left: 189px;
+  margin-top: 28px;
+}
+.part1 .connect {
+  width: 49px;
+  height: 47px;
+  margin-left: 20px;
+  margin-top: 62px;
+}
+.part1 .menu1 {
+  left: 790px;
+  top: 76px;
+}
+.part1 .header {
+  width: 239px;
+  height: 26px;
+  margin-top: 0px;
+  margin-left: 111px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 26px;
+  color: #EDE38E;
+}
+.part1 .text {
+  width: 298px;
+  height: 15px;
+  margin-left: 81px;
+  margin-top: 17px;
+  text-align: center;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+}
+.part1 hr {
+  position: absolute;
+  width: 350px;
+  height: 0px;
+  left: 55px;
+  top: 187px;
+  border: 1px solid #EDE38E;
+}
+.part1 .icon1 {
+  width: 45px;
+  height: 46px;
+  margin-top: 190px;
+  margin-left: -390px;
+}
+.part1 .icon2 {
+  width: 33px;
+  height: 33px;
+  margin-left: -290px;
+  margin-top: 201px;
+}
+.part1 .icon3 {
+  margin-left: -190px;
+  margin-top: 201px;
+  width: 35px;
+  height: 35px;
+}
+.part1 .icon4 {
+  width: 34px;
+  height: 34px;
+  margin-left: -100px;
+  margin-top: 201px;
+}
+.part1 .icon1_text {
+  margin-left: -60px;
+}
+.part1 .icon2_text {
+  margin-left: -50px;
+}
+.part1 .icon3_text {
+  margin-left: -55px;
+}
+.part1 .icon4_text {
+  margin-left: -55px;
+}
+.part2 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.part2 .line1 {
+  height: 9px;
+  width: 44px;
+  margin-left: 148px;
+  margin-top: 46px;
+  border-radius: 200px;
+  background: #3D315B;
+}
+.part2 .header1 {
+  margin-top: 10px;
+}
+.part2 div {
+  margin-left: 93px;
+  margin-top: 40px;
+  width: 276px;
+  height: 508px;
+  border: 1px solid #000000;
+  border-radius: 35px;
+}
+.part2 div h1 {
+  margin-left: 50px;
+  margin-top: 13px;
+}
+.part2 .image {
+  margin-left: 72px;
+  margin-top: 23px;
+  width: 135px;
+  height: 141.47px;
+  border: 1px solid #000000;
+  border-radius: 100px;
+}
+.part2 .image_line {
+  margin-left: 111px;
+  margin-top: 19px;
+  width: 55px;
+}
+.part2 .price {
+  margin-top: 30px;
+  font-weight: 600;
+}
+.part2 button {
+  margin-left: 72px;
+  position: absolute;
+  top: 870px;
+  width: 132px;
+  height: 40px;
+  background: #B53F3F;
+  border-radius: 15px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  color: #FFFFFF;
+}
+.part2 .button2 {
+  top: 1423px;
+}
+.part2 .product2 .text,
+.part2 .product3 .text {
+  margin-top: 32px;
+}
+.part2 .header4 {
+  width: 234px;
+  margin-left: 25px;
+}
+.part2 .button3 {
+  top: 1970px;
+}
+.part2 .button4 {
+  top: 2518px;
+}
+.part3 {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  height: 325px;
+  margin-top: 31px;
+  background: #C4C4C4;
+}
+.part3 a {
+  color: #000;
+}
+.part3 .logo {
+  width: 85px;
+  height: 40px;
+  margin-left: 5%;
+  margin-top: -55px;
+}
+.part3 .contacts {
+  margin-left: 0%;
+  margin-top: -130px;
+}
+.part3 .social_networks {
+  margin-left: 2.5%;
+  margin-top: -210px;
+}
+.part3 .icon1,
+.part3 .icon2,
+.part3 .icon3,
+.part3 .icon4 {
+  width: 23px;
+  height: 23px;
+  margin-left: 5%;
+  margin-top: -271px;
+}
+.part3 .icon2 {
+  margin-left: 12%;
+  margin-top: -189px;
+}
+.part3 .icon3 {
+  margin-left: 18%;
+  margin-top: -188px;
+}
+.part3 .icon4 {
+  margin-left: 24.5%;
+  margin-top: -188px;
+}
+.part3 .license {
+  margin-top: -140px;
+  width: 220px;
+  height: 15px;
+  margin-left: 25%;
+}
+.part3 p1 {
+  position: static;
+  color: #000;
+  font-weight: 500;
+}
+.part3 menu {
+  width: 120px;
+  height: 195px;
+  margin-left: 60%;
+  margin-top: -400px;
+  text-align: center;
+}
+.teleport {
+  background-color: rgba(196, 196, 196, 0.92);
+  height: 0px;
+  margin-top: -150px;
+}
+.teleport .advert {
+  visibility: hidden;
+}
+@media (max-width: 463px) {
+  .part1 .connect {
+    margin-top: 145px;
+  }
+  .part1 hr {
+    display: none;
+  }
+  .part1 .icon4 {
+    margin-left: -50px;
+  }
+  .part1 .icon3 {
+    margin-left: -120px;
+  }
+  .part1 .icon2 {
+    margin-left: -200px;
+  }
+  .part1 .icon1,
+  .part1 .connect {
+    margin-left: -280px;
+  }
+  .part1 .text,
+  .part1 .logo,
+  .part1 .header {
+    margin-left: 0px;
+  }
+  .part2 {
+    margin-left: -30%;
+  }
+}
